@@ -1,16 +1,28 @@
-### Hi there 👋
+안녕하세요? I am **Hyunsoo Kim**.
 
-<!--
-**sudokim/sudokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study Computer Science(Software) at Sungkyunkwan University, South Korea.
 
-Here are some ideas to get you started:
+## I am familiar with...
+* Python
+  * TensorFlow
+  * NumPy
+  * TKinter
+* C
+* Visual Basic
+* Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am new to...
+* Java
+* Javascript
+* HTML
+* CSS
+* Go
+* Rust
+
+## I want to learn...
+* Developing Mobile Apps
+  * Kotlin
+  * Objective-C
+* Testing
+* Multitasking / Multicore Computing
+* Network
