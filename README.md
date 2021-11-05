@@ -7,7 +7,7 @@ I study Computer Science(Software) at Sungkyunkwan University, South Korea.
 * Python
   * TensorFlow
   * NumPy
-  * TKinter
+  * Tkinter
 * C
 * Visual Basic
 * Lua
